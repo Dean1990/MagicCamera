@@ -1,0 +1,59 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MagicJni-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "MagicJni",
+			"buildCommand" : "/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86 --target MagicJni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/bitmap/Conversion.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/bitmap/BitmapOperation.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/beautify/MagicBeautify.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/MagicJni.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/build/intermediates/cmake/release/obj/x86/libMagicJni.so",
+			"toolchain" : "1177184148756336674"
+		}
+	},
+	"toolchains" : 
+	{
+		"1177184148756336674" : 
+		{
+			"cCompilerExecutable" : "/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,59 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MagicJni-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "MagicJni",
+			"buildCommand" : "/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a --target MagicJni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/bitmap/Conversion.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/bitmap/BitmapOperation.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/beautify/MagicBeautify.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-sdk/ndk-bundle/sysroot  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/android/support/include -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/dean/Dev/android-sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/src/main/cpp/MagicJni.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/build/intermediates/cmake/debug/obj/armeabi-v7a/libMagicJni.so",
+			"toolchain" : "1177184148756336674"
+		}
+	},
+	"toolchains" : 
+	{
+		"1177184148756336674" : 
+		{
+			"cCompilerExecutable" : "/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/dean/Dev/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

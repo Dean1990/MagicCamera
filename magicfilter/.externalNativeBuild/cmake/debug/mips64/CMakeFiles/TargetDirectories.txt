@@ -1,0 +1,3 @@
+/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips64/CMakeFiles/edit_cache.dir
+/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips64/CMakeFiles/rebuild_cache.dir
+/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips64/CMakeFiles/MagicJni.dir

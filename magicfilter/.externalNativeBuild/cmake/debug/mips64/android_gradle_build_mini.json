@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips64 --target clean"
+  ],
+  "libraries": {
+    "MagicJni-Debug-mips64": {
+      "artifactName": "MagicJni",
+      "buildCommand": "/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips64 --target MagicJni",
+      "abi": "mips64",
+      "output": "/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/build/intermediates/cmake/debug/obj/mips64/libMagicJni.so"
+    }
+  }
+}

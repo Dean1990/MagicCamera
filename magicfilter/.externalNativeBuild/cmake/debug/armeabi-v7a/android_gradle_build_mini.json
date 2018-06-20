@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "MagicJni-Debug-armeabi-v7a": {
+      "artifactName": "MagicJni",
+      "buildCommand": "/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a --target MagicJni",
+      "abi": "armeabi-v7a",
+      "output": "/Users/dean/Dev/code/AndroidStudioProjects/MagicCamera/magicfilter/build/intermediates/cmake/debug/obj/armeabi-v7a/libMagicJni.so"
+    }
+  }
+}

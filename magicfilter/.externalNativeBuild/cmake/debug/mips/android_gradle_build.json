@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MagicJni-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "MagicJni",
+			"buildCommand" : "/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake --build /Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips --target MagicJni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=/Users/dean/Dev/android-ndk/android-ndk-r14b/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dean/Dev/android-ndk/android-ndk-r14b/platforms/android-14/arch-mips  -DMagicJni_EXPORTS -isystem /Users/dean/Dev/android-ndk/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/dean/Dev/android-ndk/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips/include -isystem /Users/dean/Dev/android-ndk/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/src/main/cpp/MagicJni.cpp",
+					"workingDirectory" : "/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/debug/mips"
+				}
+			],
+			"output" : "/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/build/intermediates/cmake/debug/obj/mips/libMagicJni.so",
+			"toolchain" : "15523942081583233612"
+		}
+	},
+	"toolchains" : 
+	{
+		"15523942081583233612" : 
+		{
+			"cCompilerExecutable" : "/Users/dean/Dev/android-ndk/android-ndk-r14b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/dean/Dev/android-ndk/android-ndk-r14b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+Executable : /Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app
+-B/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/.externalNativeBuild/cmake/release/armeabi
+-DANDROID_ABI=armeabi
+-DANDROID_PLATFORM=android-14
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dean/Dev/code/AndroidStudioProjects/Magicfilter/app/build/intermediates/cmake/release/obj/armeabi
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/Users/dean/Dev/android-ndk/android-ndk-r14b
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_TOOLCHAIN_FILE=/Users/dean/Dev/android-ndk/android-ndk-r14b/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/dean/Dev/android-sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
